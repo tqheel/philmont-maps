@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Leaflet map container needs explicit height */
+.leaflet-container {
+  background: #e8e0d4;
+  font-family: system-ui, sans-serif;
+}
+
+/* Smooth image rendering for topo maps */
+img.topo-map {
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: crisp-edges;
+}
+
+/* Day color accent bars */
+.day-bar {
+  height: 4px;
+  border-radius: 2px;
+}

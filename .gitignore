@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.pytest_cache/
+
+# Generated data — run download_srtm.py to recreate
+data/*.tif
+data/*.pkl
+
+# Licensed source data — not for redistribution
+*.kml
+
+# Generated output — run `python3 main.py` to recreate
+output/
+
+# Generated web assets — run `python3 generate_web_assets.py` to recreate
+web/public/maps/
+web/public/data/
+
+# Next.js build artifacts — run `npm install && npm run dev` in web/
+web/node_modules/
+web/.next/
+web/out/
+web/next-env.d.ts
+web/tsconfig.tsbuildinfo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
