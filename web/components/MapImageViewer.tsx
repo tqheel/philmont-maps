@@ -8,15 +8,17 @@ interface MapImageViewerProps {
   day: number;
 }
 
-// Plain <a href> bypasses Next.js basePath — prefix manually.
+// next/image with unoptimized:true + static export does NOT auto-prefix basePath.
+// Prefix all image paths manually so they resolve correctly on GitHub Pages.
 const BASE = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+const mapSrc = (filename: string) => `${BASE}/maps/${filename}`;
 
 export default function MapImageViewer({ images, day }: MapImageViewerProps) {
   const [current, setCurrent] = useState(0);
 
   if (images.length === 0) return null;
 
-  const src = `/maps/${images[current]}`;
+  const src = mapSrc(images[current]);
 
   return (
     <div className="space-y-3">
@@ -56,7 +58,7 @@ export default function MapImageViewer({ images, day }: MapImageViewerProps) {
               }`}
             >
               <Image
-                src={`/maps/${img}`}
+                src={mapSrc(img)}
                 alt={`Day ${day} sheet ${i + 1} thumbnail`}
                 width={80}
                 height={104}
@@ -67,8 +69,8 @@ export default function MapImageViewer({ images, day }: MapImageViewerProps) {
         </div>
       )}
 
-      {/* Main map image */}
-      <a href={`${BASE}${src}`} target="_blank" rel="noopener noreferrer" title="Open full size">
+      {/* Main map image — src already includes BASE */}
+      <a href={src} target="_blank" rel="noopener noreferrer" title="Open full size">
         <Image
           src={src}
           alt={`Day ${day} topo map — sheet ${current + 1} of ${images.length}`}
