@@ -122,7 +122,7 @@ export default function HomePage() {
       {/* Summary map download */}
       <div className="flex gap-3 pt-2 border-t border-stone-100">
         <a
-          href="/maps/summary-1.png"
+          href={`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/maps/summary-1.png`}
           target="_blank"
           rel="noopener noreferrer"
           className="text-sm text-forest-700 hover:text-forest-800 underline"

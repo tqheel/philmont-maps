@@ -8,6 +8,9 @@ interface MapImageViewerProps {
   day: number;
 }
 
+// Plain <a href> bypasses Next.js basePath — prefix manually.
+const BASE = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+
 export default function MapImageViewer({ images, day }: MapImageViewerProps) {
   const [current, setCurrent] = useState(0);
 
@@ -65,7 +68,7 @@ export default function MapImageViewer({ images, day }: MapImageViewerProps) {
       )}
 
       {/* Main map image */}
-      <a href={src} target="_blank" rel="noopener noreferrer" title="Open full size">
+      <a href={`${BASE}${src}`} target="_blank" rel="noopener noreferrer" title="Open full size">
         <Image
           src={src}
           alt={`Day ${day} topo map — sheet ${current + 1} of ${images.length}`}
