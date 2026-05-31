@@ -6,6 +6,7 @@ import rawRouteData from "@/public/data/route.json";
 import MapImageViewer from "@/components/MapImageViewer";
 import RouteMapLoader from "@/components/RouteMapLoader";
 import ElevationChartLoader from "@/components/ElevationChartLoader";
+import { getTrekGuide } from "@/lib/parseTrekGuide";
 
 export async function generateStaticParams() {
   return Object.keys(DAYS).map((n) => ({ n }));
@@ -62,6 +63,8 @@ export default async function DayPage({
   const prevDay = getPrevDay(dayNum);
   const nextDay = getNextDay(dayNum);
   const isLayover = day.campType === "layover";
+  const { dayHtml } = getTrekGuide();
+  const guideHtml = dayHtml[dayNum] ?? null;
 
   // Passthrough waypoints for this day
   const dayWaypoints = WAYPOINTS.filter(
@@ -119,6 +122,14 @@ export default async function DayPage({
           {day.to}
         </h1>
       </div>
+
+      {/* Trek guide — full day briefing */}
+      {guideHtml && (
+        <div
+          className="trek-prose bg-white rounded-xl border border-stone-200 shadow-sm px-6 py-5 overflow-x-auto"
+          dangerouslySetInnerHTML={{ __html: guideHtml }}
+        />
+      )}
 
       {/* Stats bar */}
       {!isLayover && (
@@ -203,50 +214,6 @@ export default async function DayPage({
           )}
         </div>
       )}
-
-      {/* Programs */}
-      <div className="grid md:grid-cols-2 gap-6">
-        <div>
-          <h2 className="text-base font-semibold text-stone-700 mb-3">Programs</h2>
-          {day.programs.length > 0 ? (
-            <ul className="space-y-2">
-              {day.programs.map((prog) => (
-                <li key={prog} className="flex gap-2 text-sm text-stone-700">
-                  <span className="text-green-600 mt-0.5 flex-none">✓</span>
-                  <span>{prog}</span>
-                </li>
-              ))}
-            </ul>
-          ) : (
-            <p className="text-stone-400 text-sm">No structured programs.</p>
-          )}
-
-          {day.passthrough.length > 0 && (
-            <div className="mt-3">
-              <span className="text-xs text-stone-400 font-medium uppercase tracking-wide">Passthrough</span>
-              <div className="flex flex-wrap gap-1.5 mt-1.5">
-                {day.passthrough.map((p) => (
-                  <span key={p} className="text-xs bg-stone-100 text-stone-600 px-2 py-0.5 rounded-full">
-                    {p}
-                  </span>
-                ))}
-              </div>
-            </div>
-          )}
-        </div>
-
-        <div>
-          <h2 className="text-base font-semibold text-stone-700 mb-3">Tips</h2>
-          <ul className="space-y-2">
-            {day.tips.map((tip) => (
-              <li key={tip} className="flex gap-2 text-sm text-stone-700">
-                <span className="text-amber-500 mt-0.5 flex-none">›</span>
-                <span>{tip}</span>
-              </li>
-            ))}
-          </ul>
-        </div>
-      </div>
 
       {/* Bottom nav */}
       <div className="flex items-center justify-between pt-6 border-t border-stone-100">

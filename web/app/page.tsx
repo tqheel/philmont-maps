@@ -3,6 +3,7 @@ import type { RouteData } from "@/lib/types";
 import { TREK_META, DAY_LIST, WAYPOINTS } from "@/lib/trekData";
 import rawRouteData from "@/public/data/route.json";
 import RouteMapLoader from "@/components/RouteMapLoader";
+import { getTrekGuide } from "@/lib/parseTrekGuide";
 
 const CAMP_TYPE_LABEL: Record<string, string> = {
   staffed: "Staffed",
@@ -79,6 +80,7 @@ export default function HomePage() {
   const routeData = rawRouteData as unknown as RouteData;
   const hikingDays = DAY_LIST.filter((d) => d.campType !== "layover");
   const totalMiles = DAY_LIST.reduce((s, d) => s + d.miles, 0);
+  const { introHtml } = getTrekGuide();
 
   return (
     <div className="space-y-8">
@@ -99,6 +101,12 @@ export default function HomePage() {
           <StatPill label="Low point" value={`${TREK_META.elevMinFt.toLocaleString()} ft`} />
         </div>
       </div>
+
+      {/* Trek guide — overview and introductory sections */}
+      <div
+        className="trek-prose bg-white rounded-xl border border-stone-200 shadow-sm px-6 py-5 overflow-x-auto"
+        dangerouslySetInnerHTML={{ __html: introHtml }}
+      />
 
       {/* Interactive route map */}
       <div>

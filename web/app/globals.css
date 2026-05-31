@@ -19,3 +19,28 @@ img.topo-map {
   height: 4px;
   border-radius: 2px;
 }
+
+/* Trek guide markdown prose ------------------------------------------------ */
+.trek-prose { color: #292524; line-height: 1.75; }
+.trek-prose h1 { font-size: 1.5rem;  font-weight: 700; margin: 1.5rem 0 .5rem; }
+.trek-prose h2 { font-size: 1.25rem; font-weight: 700; margin: 1.75rem 0 .5rem; color: #15572b; border-bottom: 1px solid #d6d3d1; padding-bottom: .25rem; }
+.trek-prose h3 { font-size: 1.1rem;  font-weight: 600; margin: 1.5rem 0 .4rem; color: #1c1917; }
+.trek-prose h4 { font-size: .95rem; font-weight: 600; margin: 1.25rem 0 .35rem; color: #44403c; }
+.trek-prose p  { margin: .6rem 0; }
+.trek-prose ul, .trek-prose ol { padding-left: 1.5rem; margin: .5rem 0; }
+.trek-prose li { margin: .25rem 0; }
+.trek-prose ul li { list-style-type: disc; }
+.trek-prose ol li { list-style-type: decimal; }
+.trek-prose strong { font-weight: 600; color: #1c1917; }
+.trek-prose em { font-style: italic; }
+.trek-prose code { font-family: ui-monospace, monospace; font-size: .85em; background: #f5f5f4; padding: .1em .3em; border-radius: 3px; }
+.trek-prose pre  { background: #f5f5f4; border: 1px solid #e7e5e4; border-radius: 6px; padding: 1rem; overflow-x: auto; margin: .75rem 0; }
+.trek-prose pre code { background: none; padding: 0; }
+.trek-prose blockquote { border-left: 3px solid #d6d3d1; padding-left: 1rem; margin: .75rem 0; color: #78716c; }
+.trek-prose hr { border: none; border-top: 1px solid #e7e5e4; margin: 1.5rem 0; }
+.trek-prose a  { color: #15572b; text-decoration: underline; }
+/* Tables */
+.trek-prose table { border-collapse: collapse; width: 100%; margin: 1rem 0; font-size: .9rem; }
+.trek-prose th { background: #f5f5f4; font-weight: 600; text-align: left; padding: .4rem .75rem; border: 1px solid #d6d3d1; }
+.trek-prose td { padding: .4rem .75rem; border: 1px solid #e7e5e4; vertical-align: top; }
+.trek-prose tr:nth-child(even) td { background: #fafaf9; }
