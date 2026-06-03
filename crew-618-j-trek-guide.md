@@ -30,12 +30,12 @@ Acute Mountain Sickness (AMS) is a significant risk for crews arriving from lowe
 
 ## Executive Summary
 
-This is a 12-day South Country loop — Philmont's classic southern circuit. The route follows Rayado Creek up to Fish Camp, swings west through Apache Springs territory, climbs to the South Country's hub at Beaubien for a two-night layover, pushes north to Black Mountain for shooting sports and rock climbing at Miners Park, then arcs back southeast via Bear Caves and Urraca Mesa before finishing with the iconic Tooth of Time summit on the final day.
+This is a 12-day South Country loop — Philmont's classic southern circuit. The route follows Rayado Creek up to Fish Camp, swings west through Apache Springs territory, climbs to the South Country's hub at Beaubien for a two-night layover, pushes north to Black Mountain for historical programs and rock climbing at Miners Park, then arcs back southeast via Bear Caves and Urraca Mesa before finishing with the iconic Tooth of Time summit on the final day.
 
 Key characteristics of this itinerary:
 - **Primarily south country terrain:** canyon corridors and open meadows below 9,000 ft for most of the trek — more forgiving on altitude acclimatization than north country routes
 - **Two major layover camps:** Beaubien (2 nights with showers and cowboy programming) and Miners Park (rock climbing day)
-- **Diverse program portfolio:** every major program category is represented — living history, shooting sports, equestrian, challenge/ropes, archery, logging heritage, and technical climbing
+- **Diverse program portfolio:** every major program category is represented — living history, equestrian, challenge/ropes, archery, logging heritage, and technical climbing
 - **One dry camp on Day 11** at Stockade Ridge — classified dry (no developed water system) but a natural water source exists at camp per the official itinerary
 - **Fitness note:** The approach to Black Mountain on Day 8 (via the south-face trail of Black Mountain) is rated among the most difficult single-day ascents on the ranch; prepare the crew mentally for it
 - **Final push:** Day 12 is emotionally high but physically demanding — Tooth of Time is a Class 3 scramble after a full morning of hiking
@@ -412,7 +412,7 @@ All Beaubien programs remain available on the layover day — any programs not c
 
 ### Day 8 — Miners Park *(showers available)*
 **Elevation of Miners Park:** ~8,002 ft
-**Programs at Black Mountain (sub-camp):** Black Powder Rifle, Blacksmithing, Post Civil War Settlers
+**Programs at Black Mountain (sub-camp):** Blacksmithing, Post Civil War Settlers, Gold Panning
 **Programs at Miners Park:** Rock Climbing, Commissary
 **Type:** Staffed camp (Miners Park is staffed; Black Mountain is a remote staffed sub-camp)
 **Start (Beaubien):** 36.423576, -105.103246 | UTM 13S 490745E 4030936N
@@ -688,12 +688,11 @@ This list covers gear beyond standard Philmont backpacking kit (boots, pack, sle
 | Closed-toed shoes | Required at rock climbing (Miners Park), COPE (RMSC), and archery (Apache Springs) — standard hiking boots fulfill this | All |
 | Fitted (not baggy) pants/shorts | Prevents bunching in harnesses at Miners Park and RMSC COPE | 8, 11 |
 
-### Shooting Sports
+### Archery
 
 | Item | Notes |
 |------|-------|
-| Eye protection | Provided at black powder range; lightweight safety glasses from home are acceptable if preferred |
-| Hearing protection | Foam earplugs (lightweight, take up no space) — recommended for black powder range; may be provided but bring your own as backup |
+| Arm guard / finger tab | Not required; Apache Springs provides all necessary equipment for their 3D archery course |
 
 ### Climbing / COPE
 
@@ -781,7 +780,7 @@ Philmont offers an **Advisor Coffee** program at all staffed camps. Coffee (and 
 
 ## Sources & Verification Notes
 
-Camp details, program descriptions, and elevation data cross-referenced against multiple sources. The black powder rifle caliber at Black Mountain remains unconfirmed — contact Philmont directly to verify. Fish Camp fly fishing program availability for this crew (listed as Trail Camp in the official itinerary) should be confirmed with Philmont staff on Day 1.
+Camp details, program descriptions, and elevation data cross-referenced against multiple sources. Fish Camp fly fishing program availability for this crew (listed as Trail Camp in the official itinerary) should be confirmed with Philmont staff on Day 1.
 
 - Philmont Scout Ranch official website and Itinerary Guidebook 2026
 - [2026 Philmont Advisor's Guidebook (December 1, 2025 edition)](2026-Advisors-Guidebook-12.01.25.pdf) — fishing licenses, commissary stops, conservation project, crew size and advisor requirements
