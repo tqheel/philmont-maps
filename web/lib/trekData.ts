@@ -218,9 +218,7 @@ export const DAYS: Record<number, DayInfo> = {
     color: "#3b82f6",
     mapImages: ["day_08-1.png", "day_08-2.png"],
     programs: [
-      "Black powder rifle shooting at Black Mountain",
-      "Blacksmithing — forge an iron hook under staff instruction",
-      "Gold panning at Black Mountain creek",
+      "Blackpowder Settlement — blacksmithing and gold panning at Black Mountain",
       "Rock climbing at Betty’s Bra formation (Miners Park)",
       "Commissary at Miners Park — food resupply",
     ],
@@ -252,7 +250,6 @@ export const DAYS: Record<number, DayInfo> = {
     mapImages: ["day_09-1.png"],
     programs: [
       "Continental Tie & Lumber Co. at Crater Lake — spar pole climbing, crosscut saw, broadaxe",
-      "Evening campfire at Crater Lake — view of Tooth of Time on the skyline",
     ],
     callout: null,
     warning: null,
@@ -261,7 +258,7 @@ export const DAYS: Record<number, DayInfo> = {
     tips: [
       "Long pants strongly recommended (required) for spar pole climbing",
       "Bear activity common in this area — hang bags with extra care",
-      "Tooth of Time visible from the Crater Lake campfire — point it out to the crew",
+      "Tooth of Time visible from Crater Lake — point it out to the crew",
     ],
     passthrough: ["Crater Lake"],
   },

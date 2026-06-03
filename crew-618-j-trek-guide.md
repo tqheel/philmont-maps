@@ -431,11 +431,6 @@ Staff at Black Mountain portray settlers of the post-Civil War era. The specific
 
 **Gold Panning:** Confirmed for Itinerary 12-1 at Black Mountain. Staff demonstrate panning technique in the creek; Scouts can try to find color in the gravel. Gold was genuinely mined in this drainage.
 
-**Black Powder Rifle Shooting:**
-Crews fire muzzle-loading black powder rifles at targets on a dedicated range. Staff demonstrate safe loading procedures (powder measure, patch, ball, ramrod), proper stance, and firing. No prior firearms experience is required — in fact, the muzzle-loading process is so different from modern firearms that prior experience is largely irrelevant. Scouts load and fire under close supervision. This is one of Philmont's most popular programs and a program that no Ranger or crew who has done it forgets.
-
-No outside firearms, ammunition, or black powder is permitted on the ranch. All equipment is provided. BSA Youth Protection and firearms safety protocols are strictly observed.
-
 **Blacksmithing:**
 Crews work with a forge and anvil to create a simple iron object — typically a hook or spike — under staff instruction. No experience needed. This is physically engaging, historically interesting, and produces a tangible take-home item.
 
@@ -456,11 +451,6 @@ Miners Park is one of Philmont's three dedicated climbing camps. The program are
 - Closed-toed shoes minimum requirement
 - Avoid baggy shorts or pants that can bunch in a harness — fitted pants or shorts that can be tucked are better
 - Remove keys, large belt buckles, or items that will dig into you in a harness
-
-**For Black Powder Rifle:**
-- No special preparation or gear needed
-- Eye protection is typically provided or required by the range; confirm with staff
-- Hearing protection may be provided; if you have lightweight foam earplugs, bring them
 
 **For Black Mountain Climb:**
 - Trekking poles are strongly recommended for the descent, which is steep
@@ -510,8 +500,6 @@ Activities include:
 - **Hand-hewn railroad tie construction:** Using a broadaxe, scouts learn to shape a round log into a flat-sided railroad tie.
 - **Loggerball:** A logger-themed variant of baseball, played in the evening
 
-**Evening Campfire at Crater Lake:** The Crater Lake campfire features a magnificent view of the Tooth of Time on the southeastern skyline — the crew's Day 12 destination is visible from here, which is motivating.
-
 #### Gear/Clothing Notes
 - Long pants are recommended (and may be required) for spar pole climbing, which involves leg gaffs and a tree trunk; long pants protect against bark abrasion
 - Sturdy footwear (hiking boots) for spar pole work
@@ -521,7 +509,6 @@ Activities include:
 - Bear activity is historically noted in this area; hang food bags and dispose of waste properly
 - The spar pole climb is physically demanding on grip and arms; crew members with upper body strength concerns should still attempt it — staff will help them get as high as they can safely go
 - Crater Lake's view of the Tooth of Time is worth noting for the crew: that ridge is where they finish in 3 days
-- **Advisor Coffee** is available at Crater Lake (passthrough).
 
 #### Trail Navigation Data
 *Supplementary trail data from PhilTrek.com. Use alongside official mileage for in-field timing — do not substitute for official figures.*
@@ -776,19 +763,19 @@ Philmont offers an **Advisor Coffee** program at all staffed camps. Coffee (and 
 | 2 | Olympia | Trail camp — not available |
 | 3 | **Abreu** | **Yes** |
 | 4 | Fish Camp | Trail camp — not available |
-| 5 | **Apache Springs** (passthrough) | **Yes** (passthrough; confirm with staff on arrival) |
+| 5 | **Apache Springs** (passthrough) | **No** (daytime passthrough only) |
 | 5 | Buck Creek | Trail camp — not available |
 | 6 | **Beaubien** | **Yes** |
 | 7 | **Beaubien** (layover) | **Yes** |
-| 8 | **Black Mountain** (passthrough) | **Yes** (remote staffed sub-camp) |
+| 8 | **Black Mountain** (passthrough) | **No** (daytime passthrough only) |
 | 8 | **Miners Park** | **Yes** |
-| 9 | **Crater Lake** (passthrough) | **Yes** (passthrough; confirm with staff on arrival) |
+| 9 | **Crater Lake** (passthrough) | **No** (daytime passthrough only) |
 | 9 | Bear Caves | Trail camp — not available |
 | 10 | **Urraca** | **Yes** |
 | 11 | Stockade Ridge | Trail camp — not available |
 | 12 | Camping HQ (Base Camp) | Available (Awards Campfire day) |
 
-**Passthrough camps:** Apache Springs (Day 5) and Crater Lake (Day 9) are staffed camps the crew passes through without overnighting. Advisor Coffee is offered there, but availability for passthrough crews depends on timing and staff capacity. Arrive early enough in the evening to participate.
+**Passthrough camps:** Apache Springs (Day 5), Black Mountain (Day 8), and Crater Lake (Day 9) are staffed camps the crew passes through during the day. Because the crew overnights at different locations on these days, advisors will not be present in the evening when Advisor Coffee is typically served.
 
 ---
 

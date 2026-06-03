@@ -1,0 +1,390 @@
+1:"$Sreact.fragment"
+2:I[52619,["619","static/chunks/619-f072ac750404f9da.js","974","static/chunks/app/page-b385d753ae11e2a2.js"],""]
+3:I[9766,[],""]
+4:I[98924,[],""]
+f:I[57150,[],""]
+:HL["/_next/static/css/0f6cc9736d4ef743.css","style"]
+0:{"P":null,"b":"9IJ1Ull-3tLvbkBvu6-nV","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/0f6cc9736d4ef743.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"bg-stone-50 text-stone-900 min-h-screen","children":[["$","header",null,{"className":"bg-forest-800 text-white shadow-md","children":["$","div",null,{"className":"max-w-6xl mx-auto px-4 py-3 flex items-center justify-between","children":[["$","$L2",null,{"href":"/","className":"flex items-center gap-3 hover:opacity-90 transition-opacity","children":[["$","span",null,{"className":"text-2xl","children":"⛺"}],["$","div",null,{"children":[["$","div",null,{"className":"font-bold text-lg leading-tight","children":"Crew 618-J"}],["$","div",null,{"className":"text-xs text-green-200 leading-tight","children":"Philmont 2026 · South Country Loop"}]]}]]}],["$","nav",null,{"className":"flex gap-4 text-sm","children":[["$","$L2",null,{"href":"/","className":"hover:text-green-200 transition-colors","children":"Overview"}],["$","$L2",null,{"href":"/itinerary/","className":"hover:text-green-200 transition-colors","children":"Itinerary"}]]}]]}]}],["$","main",null,{"className":"max-w-6xl mx-auto px-4 py-6","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-stone-200 mt-12 py-6 text-center text-xs text-stone-400","children":"Crew 618-J · Itinerary 12-1 Challenging · Philmont Scout Ranch · June 2026"}]]}]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","div",null,{"className":"space-y-8","children":[["$","div",null,{"children":[["$","h1",null,{"className":"text-3xl font-bold text-stone-900 mb-1","children":"Crew 618-J · Philmont 2026"}],["$","p",null,{"className":"text-stone-500 text-sm mb-4","children":["12-1 Challenging"," · ","South Country Loop"," · June 18–29, 2026"]}],["$","div",null,{"className":"flex flex-wrap gap-3","children":[["$","div",null,{"className":"flex flex-col items-center bg-white rounded-lg px-4 py-2 shadow-sm border border-stone-100","children":[["$","span",null,{"className":"text-lg font-bold text-forest-800","children":"53.3 mi"}],["$","span",null,{"className":"text-xs text-stone-500","children":"Total miles"}]]}],["$","div",null,{"className":"flex flex-col items-center bg-white rounded-lg px-4 py-2 shadow-sm border border-stone-100","children":[["$","span",null,{"className":"text-lg font-bold text-forest-800","children":"30,700'"}],["$","span",null,{"className":"text-xs text-stone-500","children":"Cumul. gain"}]]}],["$","div",null,{"className":"flex flex-col items-center bg-white rounded-lg px-4 py-2 shadow-sm border border-stone-100","children":[["$","span",null,{"className":"text-lg font-bold text-forest-800","children":"27,540'"}],["$","span",null,{"className":"text-xs text-stone-500","children":"Cumul. loss"}]]}],["$","div",null,{"className":"flex flex-col items-center bg-white rounded-lg px-4 py-2 shadow-sm border border-stone-100","children":["$L5","$L6"]}],"$L7","$L8"]}]]}],"$L9","$La","$Lb","$Lc"]}],null,"$Ld"]}],{},null,false]},null,false],"$Le",false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+11:I[31124,["619","static/chunks/619-f072ac750404f9da.js","974","static/chunks/app/page-b385d753ae11e2a2.js"],"default"]
+1b:I[24431,[],"OutletBoundary"]
+1d:I[15278,[],"AsyncMetadataOutlet"]
+1f:I[24431,[],"ViewportBoundary"]
+21:I[24431,[],"MetadataBoundary"]
+22:"$Sreact.suspense"
+5:["$","span",null,{"className":"text-lg font-bold text-forest-800","children":"10"}]
+6:["$","span",null,{"className":"text-xs text-stone-500","children":"Hiking days"}]
+7:["$","div",null,{"className":"flex flex-col items-center bg-white rounded-lg px-4 py-2 shadow-sm border border-stone-100","children":[["$","span",null,{"className":"text-lg font-bold text-forest-800","children":"9,343 ft"}],["$","span",null,{"className":"text-xs text-stone-500","children":"High point"}]]}]
+8:["$","div",null,{"className":"flex flex-col items-center bg-white rounded-lg px-4 py-2 shadow-sm border border-stone-100","children":[["$","span",null,{"className":"text-lg font-bold text-forest-800","children":"6,729 ft"}],["$","span",null,{"className":"text-xs text-stone-500","children":"Low point"}]]}]
+10:T2a28,<h1 id="2026-philmont-trek--crew-618-j-trek-guide">2026 Philmont Trek — Crew 618-J Trek Guide</h1>
+<p><strong>Expedition Number:</strong> 618-J
+<strong>Trek:</strong> Itinerary 12-1 · Challenging · 54 miles · South Country
+<strong>Start Date:</strong> June 18, 2026
+<strong>Elevation range:</strong> 6,729 ft (minimum) to 9,343 ft (maximum)
+<strong>Duration:</strong> 12 days
+<strong>Trailhead:</strong> Rayado Trailhead (Day 2 departure from Base Camp by bus)
+<strong>Return:</strong> Hike over Tooth of Time Ridge into Base Camp on Day 12</p>
+<hr>
+<h2 id="logistics-and-acclimatization-timeline">Logistics and Acclimatization Timeline</h2>
+<p>Acute Mountain Sickness (AMS) is a significant risk for crews arriving from lower elevations. Our crew follows a structured acclimatization schedule before stepping onto the trail.</p>
+<ul>
+<li><strong>June 16, 2026:</strong> Depart Raleigh-Durham International Airport (RDU) on United flight UA 2270 to Denver, Colorado. Upon arrival, load gear into two reserved minivans and drive south to Colorado Springs.</li>
+<li><strong>June 16–17, 2026:</strong> Two-night acclimatization layover at the Great Wolf Lodge, Colorado Springs (~6,035 ft). Active acclimatization includes the Garden of the Gods and the Manitou Incline.</li>
+<li><strong>June 18, 2026:</strong> Drive the final stretch to Cimarron, NM. Arrive for check-in at Philmont Base Camp (Day 1).</li>
+<li><strong>June 30, 2026:</strong> Return to Denver and fly home to RDU on United flight UA 2671.</li>
+</ul>
+<hr>
+<h2 id="executive-summary">Executive Summary</h2>
+<p>This is a 12-day South Country loop — Philmont&#39;s classic southern circuit. The route follows Rayado Creek up to Fish Camp, swings west through Apache Springs territory, climbs to the South Country&#39;s hub at Beaubien for a two-night layover, pushes north to Black Mountain for shooting sports and rock climbing at Miners Park, then arcs back southeast via Bear Caves and Urraca Mesa before finishing with the iconic Tooth of Time summit on the final day.</p>
+<p>Key characteristics of this itinerary:</p>
+<ul>
+<li><strong>Primarily south country terrain:</strong> canyon corridors and open meadows below 9,000 ft for most of the trek — more forgiving on altitude acclimatization than north country routes</li>
+<li><strong>Two major layover camps:</strong> Beaubien (2 nights with showers and cowboy programming) and Miners Park (rock climbing day)</li>
+<li><strong>Diverse program portfolio:</strong> every major program category is represented — living history, shooting sports, equestrian, challenge/ropes, archery, logging heritage, and technical climbing</li>
+<li><strong>One dry camp on Day 11</strong> at Stockade Ridge — classified dry (no developed water system) but a natural water source exists at camp per the official itinerary</li>
+<li><strong>Fitness note:</strong> The approach to Black Mountain on Day 8 (via the south-face trail of Black Mountain) is rated among the most difficult single-day ascents on the ranch; prepare the crew mentally for it</li>
+<li><strong>Final push:</strong> Day 12 is emotionally high but physically demanding — Tooth of Time is a Class 3 scramble after a full morning of hiking</li>
+</ul>
+<hr>
+<h2 id="route-data--elevation-profile">Route Data &amp; Elevation Profile</h2>
+<p><em>Source: 2026 Philmont Itinerary Guidebook (official). Gain and Loss columns are <strong>cumulative ascent/descent</strong> for the full hiking day — total uphill and downhill feet traveled, not net elevation change. This is the correct metric for communicating daily effort to the crew.</em></p>
+<table>
+<thead>
+<tr>
+<th>Day</th>
+<th>Camp</th>
+<th align="right">Miles</th>
+<th align="right">Gain</th>
+<th align="right">Loss</th>
+<th>Food Pickup</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1</td>
+<td>Base Camp (Camping HQ)</td>
+<td align="right">—</td>
+<td align="right">—</td>
+<td align="right">—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Olympia</td>
+<td align="right">2.6</td>
+<td align="right">520&#39;</td>
+<td align="right">300&#39;</td>
+<td>Camping HQ</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Abreu <em>(showers)</em></td>
+<td align="right">3.3</td>
+<td align="right">600&#39;</td>
+<td align="right">110&#39;</td>
+<td>—</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Fish Camp</td>
+<td align="right">7.9</td>
+<td align="right">6,970&#39;</td>
+<td align="right">5,480&#39;</td>
+<td>—</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Buck Creek</td>
+<td align="right">7.5</td>
+<td align="right">3,840&#39;</td>
+<td align="right">3,380&#39;</td>
+<td>Apache Springs</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Beaubien <em>(showers)</em></td>
+<td align="right">3.3</td>
+<td align="right">1,740&#39;</td>
+<td align="right">1,570&#39;</td>
+<td>—</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Beaubien — Layover</td>
+<td align="right">0.0</td>
+<td align="right">0&#39;</td>
+<td align="right">0&#39;</td>
+<td>—</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Miners Park <em>(showers)</em></td>
+<td align="right">8.6</td>
+<td align="right">4,320&#39;</td>
+<td align="right">5,640&#39;</td>
+<td>Miners Park</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Bear Caves</td>
+<td align="right">3.1</td>
+<td align="right">1,780&#39;</td>
+<td align="right">1,380&#39;</td>
+<td>—</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Urraca</td>
+<td align="right">4.6</td>
+<td align="right">1,780&#39;</td>
+<td align="right">2,210&#39;</td>
+<td>—</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Stockade Ridge <em>(dry)</em></td>
+<td align="right">4.7</td>
+<td align="right">1,310&#39;</td>
+<td align="right">1,750&#39;</td>
+<td>—</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Base Camp (via Tooth of Time)</td>
+<td align="right">7.7</td>
+<td align="right">2,860&#39;</td>
+<td align="right">3,720&#39;</td>
+<td>—</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>TOTAL</strong></td>
+<td align="right"><strong>53.3 mi</strong></td>
+<td align="right"><strong>30,700&#39;</strong></td>
+<td align="right"><strong>27,540&#39;</strong></td>
+<td></td>
+</tr>
+</tbody></table>
+<p><strong>Hardest days by cumulative gain:</strong> Day 4 (6,970&#39;), Day 8 (4,320&#39;), Day 5 (3,840&#39;). Days 2, 3, 7, and 9 are recovery days by comparison.</p>
+<hr>
+<h3 id="elevation-profile-camp-elevations">Elevation Profile (Camp Elevations)</h3>
+<pre><code>ft
+9,500 |
+9,000 |              ●⁵Buck Crk  ●⁶⁻⁷Beaubien             [●ToT 9,003]
+8,500 |         ●⁴Fish Camp           ●⁹Bear Caves         /
+8,000 |    ●³Abreu     \         ●⁸Miners Pk  ●¹⁰Urraca   /
+7,500 |   /             \                   ●¹¹Stockade   /
+7,000 |●²Olympia         \                              \ /
+6,500 |●¹Base Camp        \                              ●¹²Base Camp
+      +----+----+----+----+----+----+----+----+----+----+----+
+      0    5   10   15   20   25   30   35   40   45   50   54 mi
+      
+      Note: Profile shows camp-to-camp elevations only. Actual daily
+      terrain is far more undulating — see Gain/Loss table above.
+      Day 4 alone traverses 6,970&#39; of uphill despite a modest net gain.
+</code></pre>
+<hr>
+<h3 id="route-map-text">Route Map (Text)</h3>
+<pre><code>BASE CAMP (Start/Finish)
+│  Day 2: Bus → Rayado Trailhead → 2.6 mi
+↓
+OLYMPIA (~6,731 ft) — Trail Camp
+│  Day 3: 3.3 mi, 600&#39; gain — Rayado Creek drainage
+↓
+ABREU (~7,350 ft) — Staffed ★ Showers
+│  Day 4: 7.9 mi, 6,970&#39; cumulative gain — most undulating day
+↓
+FISH CAMP (~8,500 ft) — Trail Camp
+│  Day 5: 7.5 mi, 3,840&#39; gain — via Apache Springs (passthrough)
+↓
+BUCK CREEK (~9,131 ft) — Trail Camp
+│  Day 6: 3.3 mi, 1,740&#39; gain — South Country high point
+↓
+BEAUBIEN (~9,330 ft) — Staffed ★ Showers [2 nights]
+│  Day 7: Layover — Conservation project 7:30am
+│
+│  Day 8: 8.6 mi, 4,320&#39; gain — via Black Mountain (passthrough)
+↓
+MINERS PARK (~8,002 ft) — Staffed ★ Showers
+│  Day 9: 3.1 mi — via Crater Lake (passthrough)
+↓
+BEAR CAVES (~8,423 ft) — Trail Camp
+│  Day 10: 4.6 mi — over Urraca Mesa (8,594 ft)
+↓
+URRACA (~7,968 ft) — Staffed
+│  Day 11: 4.7 mi
+↓
+STOCKADE RIDGE (~7,400 ft) — Trail Camp (dry designation; water on site)
+│  Day 12: 7.7 mi — Tooth Ridge traverse → summit → descent
+↓
+BASE CAMP (Finish) — via Tooth of Time (9,003 ft summit)
+</code></pre>
+<hr>
+<h2 id="gps-waypoints">GPS Waypoints</h2>
+<p><em>Source: PhilTrek.com. Coordinates are WGS84 decimal degrees. All UTM coordinates are <strong>Zone 13S</strong> (WGS84). Camp markers are accurate to within ~20 feet of the trail path. RMSC marker is ~1,100 feet off the main trail — it marks the RMSC facility, not the trail junction.</em></p>
+<table>
+<thead>
+<tr>
+<th>Day</th>
+<th>Waypoint</th>
+<th>Type</th>
+<th>Latitude</th>
+<th>Longitude</th>
+<th>UTM Easting</th>
+<th>UTM Northing</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1</td>
+<td>Camping HQ (Base Camp)</td>
+<td>Start/Finish</td>
+<td>36.365230</td>
+<td>-104.930362</td>
+<td>506247</td>
+<td>4024461</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Olympia</td>
+<td>Camp</td>
+<td>36.371734</td>
+<td>-104.968928</td>
+<td>502787</td>
+<td>4025181</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Abreu</td>
+<td>Camp</td>
+<td>36.379133</td>
+<td>-105.015701</td>
+<td>498592</td>
+<td>4026001</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Fish Camp</td>
+<td>Camp</td>
+<td>36.387820</td>
+<td>-105.102720</td>
+<td>490788</td>
+<td>4026970</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Apache Springs</td>
+<td>Passthrough</td>
+<td>36.387479</td>
+<td>-105.144133</td>
+<td>487074</td>
+<td>4026937</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Buck Creek</td>
+<td>Camp</td>
+<td>36.411196</td>
+<td>-105.130419</td>
+<td>488307</td>
+<td>4029566</td>
+</tr>
+<tr>
+<td>6–7</td>
+<td>Beaubien</td>
+<td>Camp (2 nights)</td>
+<td>36.423576</td>
+<td>-105.103246</td>
+<td>490745</td>
+<td>4030936</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Black Mountain</td>
+<td>Passthrough</td>
+<td>36.442549</td>
+<td>-105.093307</td>
+<td>491638</td>
+<td>4033040</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Miners Park</td>
+<td>Camp</td>
+<td>36.423674</td>
+<td>-105.041596</td>
+<td>496271</td>
+<td>4030943</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Crater Lake</td>
+<td>Passthrough</td>
+<td>36.405565</td>
+<td>-105.048942</td>
+<td>495612</td>
+<td>4028934</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Bear Caves</td>
+<td>Camp</td>
+<td>36.404802</td>
+<td>-105.033858</td>
+<td>496964</td>
+<td>4028849</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Urraca</td>
+<td>Camp</td>
+<td>36.408988</td>
+<td>-104.990507</td>
+<td>500851</td>
+<td>4029313</td>
+</tr>
+<tr>
+<td>11</td>
+<td>RMSC</td>
+<td>Passthrough</td>
+<td>36.434049</td>
+<td>-104.990120</td>
+<td>500886</td>
+<td>4032093</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Stockade Ridge</td>
+<td>Camp</td>
+<td>36.437662</td>
+<td>-105.007633</td>
+<td>499316</td>
+<td>4032493</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Camping HQ (Base Camp)</td>
+<td>Finish</td>
+<td>36.453513</td>
+<td>-104.962480</td>
+<td>503362</td>
+<td>4034252</td>
+</tr>
+</tbody></table>
+<hr>
+9:["$","div",null,{"className":"trek-prose bg-white rounded-xl border border-stone-200 shadow-sm px-6 py-5 overflow-x-auto","dangerouslySetInnerHTML":{"__html":"$10"}}]
+a:["$","div",null,{"children":[["$","h2",null,{"className":"text-lg font-semibold text-stone-700 mb-3","children":"Full Route — click any segment for day detail"}],["$","$L11",null,{"routeData":{"colors":{"2":"#ef4444","3":"#f97316","4":"#eab308","5":"#22c55e","6":"#14b8a6","7":"#6366f1","8":"#3b82f6","9":"#8b5cf6","10":"#ec4899","11":"#f59e0b","12":"#78716c"},"days":{"2":{"track":[[36.36523,-104.930362],[36.366952,-104.930064],[36.366952,-104.93368],[36.367125,-104.934828],[36.367367,-104.936502],[36.369596,-104.942188],[36.370296,-104.945213],[36.369682,-104.948486],[36.369536,-104.950235],[36.369449,-104.95208],[36.369967,-104.953968],[36.370589,-104.959901],[36.371039,-104.962959],[36.371194,-104.965727],[36.371734,-104.968928]],"elevFt":[6512.5,6512.5,6538.7,6542,6558.4,6578.1,6591.2,6604.3,6617.5,6627.3,6640.4,6673.2,6692.9,6712.6,6732.3],"distMi":[0,0.12,0.321,0.386,0.481,0.833,1.008,1.195,1.293,1.396,1.507,1.84,2.013,2.167,2.349]},"3":{"track":[[36.371734,-104.968928],[36.371803,-104.971503],[36.371492,-104.972791],[36.371682,-104.974894],[36.371527,-104.977318],[36.372201,-104.979571],[36.371942,-104.981073],[36.37246,-104.984979],[36.373462,-104.987017],[36.375121,-104.988669],[36.376157,-104.988541],[36.377531,-104.990247],[36.377591,-104.991502],[36.377729,-104.992339],[36.378006,-104.993873],[36.377617,-104.995396],[36.377045,-104.995241],[36.376388,-104.9961],[36.376734,-104.997859],[36.376474,-105.001743],[36.376474,-105.003953],[36.376008,-105.005477],[36.376008,-105.007],[36.375472,-105.008867],[36.375524,-105.010476],[36.375922,-105.011764],[36.376077,-105.013673],[36.376889,-105.014789],[36.377477,-105.015433],[36.378306,-105.015733],[36.378513,-105.016011]],"elevFt":[6732.3,6745.4,6761.8,6771.7,6797.9,6807.7,6824.1,6863.5,6893,6922.6,6886.5,6893,6906.2,6912.7,6925.9,6945.5,6932.4,6971.8,6968.5,7037.4,7044,7070.2,7076.8,7119.4,7126,7122.7,7162.1,7168.6,7171.9,7185,7194.9],"distMi":[0,0.143,0.218,0.336,0.471,0.605,0.69,0.91,1.043,1.19,1.262,1.396,1.466,1.514,1.601,1.69,1.73,1.796,1.897,2.114,2.237,2.328,2.413,2.523,2.613,2.69,2.797,2.881,2.935,2.995,3.016]},"4":{"track":[[36.378513,-105.016011],[36.37847,-105.017031],[36.378193,-105.018211],[36.378293,-105.019542],[36.377551,-105.02142],[36.377646,-105.022787],[36.376994,-105.024338],[36.376843,-105.025324],[36.376478,-105.026746],[36.376443,-105.028913],[36.375234,-105.028527],[36.372988,-105.029407],[36.371916,-105.028462],[36.370586,-105.026853],[36.370396,-105.028119],[36.369895,-105.029278],[36.370586,-105.030029],[36.371035,-105.031638],[36.370085,-105.030758],[36.370431,-105.032024],[36.370051,-105.032153],[36.369273,-105.032883],[36.368979,-105.034471],[36.369325,-105.035844],[36.369791,-105.037131],[36.370033,-105.038312],[36.36948,-105.039814],[36.368305,-105.041573],[36.367079,-105.042625],[36.364487,-105.043805],[36.365334,-105.046573],[36.364452,-105.049255],[36.364452,-105.050929],[36.364573,-105.054448],[36.365645,-105.058911],[36.3658,-105.06052],[36.364919,-105.0617],[36.364573,-105.062859],[36.364584,-105.064225],[36.364498,-105.065405],[36.364921,-105.066767],[36.365664,-105.069321],[36.366027,-105.070329],[36.366986,-105.072078],[36.367694,-105.073655],[36.368023,-105.07505],[36.368645,-105.076176],[36.370554,-105.079695],[36.371807,-105.08124],[36.373085,-105.081637],[36.373543,-105.08286],[36.375443,-105.084234],[36.375512,-105.086304],[36.377067,-105.087635],[36.377845,-105.089191],[36.378743,-105.089341],[36.379365,-105.090328],[36.380108,-105.091604],[36.384971,-105.096379],[36.385541,-105.097924],[36.386405,-105.099082],[36.38726,-105.102537],[36.387519,-105.102626]],"elevFt":[7194.9,7204.7,7221.1,7257.2,7286.7,7299.9,7319.6,7342.5,7414.7,7542.7,7578.7,7644.4,7683.7,7723.1,7815,7874,7874,7903.5,7962.6,8011.8,8044.6,8100.4,8139.8,8208.7,8202.1,8248,8218.5,8211.9,8192.3,8166,8198.8,8192.3,8218.5,8248,8257.9,8238.2,8287.4,8330.1,8323.5,8349.7,8333.3,8333.3,8267.7,8297.2,8303.8,8346.5,8372.7,8415.4,8448.2,8412.1,8487.5,8543.3,8586,8576.1,8602.4,8490.8,8428.5,8533.5,8612.2,8615.5,8572.8,8559.7,8553.1],"distMi":[0,0.057,0.125,0.199,0.315,0.391,0.488,0.544,0.627,0.748,0.834,0.997,1.088,1.216,1.288,1.361,1.424,1.519,1.601,1.675,1.702,1.769,1.86,1.94,2.019,2.087,2.179,2.306,2.409,2.6,2.765,2.926,3.019,3.215,3.474,3.564,3.654,3.723,3.799,3.865,3.946,4.097,4.158,4.276,4.376,4.457,4.533,4.769,4.891,4.982,5.057,5.209,5.324,5.454,5.556,5.619,5.689,5.777,6.205,6.3,6.388,6.589,6.608]},"5":{"track":[[36.387519,-105.102626],[36.38702,-105.104182],[36.386963,-105.105346],[36.386494,-105.10646],[36.386455,-105.107853],[36.386612,-105.109172],[36.386513,-105.11032],[36.38621,-105.11267],[36.385703,-105.113585],[36.385453,-105.115918],[36.385103,-105.117755],[36.384634,-105.119157],[36.384587,-105.120645],[36.38429,-105.122176],[36.384267,-105.123306],[36.384089,-105.124665],[36.383432,-105.126232],[36.382396,-105.126747],[36.380271,-105.130051],[36.380582,-105.131103],[36.379977,-105.132068],[36.380029,-105.133506],[36.379234,-105.137025],[36.379701,-105.137068],[36.379718,-105.137561],[36.380046,-105.137669],[36.380513,-105.137626],[36.381347,-105.137453],[36.38278,-105.137367],[36.383592,-105.14065],[36.385648,-105.141315],[36.387151,-105.143439],[36.38775,-105.143667],[36.388182,-105.140384],[36.389443,-105.139226],[36.390359,-105.139397],[36.391982,-105.138775],[36.391119,-105.137659],[36.390445,-105.135428],[36.392,-105.135192],[36.392535,-105.13163],[36.394919,-105.133926],[36.396111,-105.133711],[36.397821,-105.133619],[36.398421,-105.134963],[36.398401,-105.13372],[36.398453,-105.131703],[36.397416,-105.131725],[36.398522,-105.130738],[36.400214,-105.130845],[36.401199,-105.131553],[36.402097,-105.13224],[36.402218,-105.131575],[36.402408,-105.131317],[36.402339,-105.12915],[36.404705,-105.127498],[36.405827,-105.126039],[36.406483,-105.126554],[36.407105,-105.125588],[36.406207,-105.124558],[36.406604,-105.123056],[36.407243,-105.123936],[36.4079,-105.124858],[36.408383,-105.12694],[36.41011,-105.128356],[36.410956,-105.129665]],"elevFt":[8553.1,8572.8,8579.4,8595.8,8599.1,8608.9,8622,8631.9,8648.3,8681.1,8677.8,8697.5,8690.9,8704.1,8723.8,8773,8740.2,8759.8,8802.5,8835.3,8841.9,8868.1,8963.3,9051.8,9074.8,9117.5,9186.4,9209.3,9242.1,9353.7,9330.7,9366.8,9399.6,9386.5,9340.6,9307.7,9330.7,9376.6,9393,9357,9255.2,9219.2,9189.6,9261.8,9281.5,9311,9399.6,9409.4,9458.7,9399.6,9386.5,9429.1,9481.6,9524.3,9544,9504.6,9458.7,9422.6,9412.7,9357,9265.1,9268.4,9265.1,9199.5,9137.1,9114.2],"distMi":[0,0.093,0.158,0.228,0.306,0.38,0.444,0.576,0.638,0.769,0.874,0.958,1.041,1.129,1.192,1.269,1.367,1.444,1.679,1.741,1.809,1.889,2.092,2.124,2.151,2.174,2.206,2.264,2.363,2.554,2.701,2.858,2.901,3.086,3.194,3.258,3.375,3.461,3.594,3.702,3.904,4.112,4.195,4.313,4.398,4.467,4.579,4.651,4.745,4.862,4.941,5.014,5.052,5.071,5.192,5.38,5.492,5.546,5.615,5.699,5.787,5.853,5.921,6.041,6.184,6.277]},"6":{"track":[[36.410956,-105.129665],[36.411294,-105.129587],[36.410966,-105.127828],[36.411173,-105.12624],[36.411363,-105.123364],[36.412624,-105.123107],[36.412503,-105.121626],[36.412261,-105.119652],[36.413332,-105.119652],[36.414126,-105.11888],[36.415162,-105.120038],[36.416543,-105.120253],[36.415784,-105.119523],[36.416923,-105.119824],[36.415991,-105.118097],[36.416475,-105.116887],[36.415405,-105.116887],[36.416372,-105.115428],[36.419411,-105.1156],[36.420826,-105.115428],[36.422622,-105.113711],[36.424556,-105.110407],[36.426766,-105.107456],[36.425333,-105.104463],[36.42447,-105.103497],[36.423576,-105.103246]],"elevFt":[9114.2,9140.4,9091.2,9140.4,9242.1,9232.3,9268.4,9229,9169.9,9130.6,9068.2,9022.3,8960,8933.7,8927.2,8982.9,9022.3,9091.2,9176.5,9222.4,9271.7,9383.2,9399.6,9343.8,9320.9,9327.4],"distMi":[0,0.024,0.124,0.213,0.373,0.461,0.544,0.655,0.729,0.799,0.895,0.991,1.057,1.137,1.253,1.328,1.402,1.507,1.717,1.815,1.972,2.199,2.423,2.617,2.697,2.76]},"7":{"track":[],"elevFt":[],"distMi":[]},"8":{"track":[[36.423576,-105.103246],[36.423834,-105.101012],[36.424016,-105.102621],[36.424209,-105.101395],[36.427576,-105.101577],[36.427714,-105.102779],[36.428716,-105.102908],[36.430718,-105.104066],[36.433929,-105.10441],[36.433101,-105.103337],[36.435379,-105.103594],[36.436412,-105.104649],[36.436291,-105.102332],[36.43762,-105.099671],[36.438487,-105.102264],[36.439315,-105.103637],[36.441694,-105.101194],[36.441867,-105.09877],[36.441918,-105.097504],[36.440468,-105.100057],[36.441711,-105.095422],[36.443834,-105.095014],[36.441694,-105.094263],[36.442695,-105.093706],[36.442549,-105.093307],[36.440898,-105.091811],[36.439171,-105.089151],[36.437065,-105.087649],[36.434062,-105.086962],[36.432508,-105.085675],[36.43268,-105.084473],[36.431748,-105.082928],[36.430781,-105.077349],[36.429677,-105.075375],[36.429504,-105.07177],[36.43123,-105.063788],[36.432888,-105.061427],[36.433164,-105.058423],[36.434821,-105.055934],[36.434614,-105.05469],[36.43527,-105.053445],[36.434821,-105.052286],[36.436651,-105.046836],[36.435961,-105.045635],[36.436409,-105.044476],[36.436409,-105.042974],[36.436571,-105.04025],[36.436622,-105.039091],[36.436329,-105.039692],[36.435448,-105.041451],[36.433877,-105.041666],[36.431271,-105.041859],[36.429648,-105.042224],[36.428595,-105.043104],[36.428025,-105.041365],[36.425832,-105.041215],[36.423916,-105.041923]],"elevFt":[9327.4,9343.8,9307.7,9337.3,9416,9412.7,9432.4,9458.7,9566.9,9593.2,9662.1,9750.7,9806.4,9701.4,9694.9,9626,9544,9494.8,9389.8,9370.1,9179.8,9101.1,9055.1,9002.6,8976.4,8933.7,8884.5,8832,8766.4,8730.3,8713.9,8681.1,8592.5,8546.6,8467.8,8320.2,8264.4,8231.6,8169.3,8143,8126.6,8110.2,8044.6,8005.2,7992.1,7969.2,7992.1,8047.9,8074.1,8123.4,8202.1,8146.3,8103.7,8077.4,8015.1,7975.7,7972.4],"distMi":[0,0.125,0.215,0.284,0.517,0.584,0.654,0.807,1.03,1.113,1.271,1.363,1.492,1.666,1.822,1.917,2.13,2.265,2.335,2.509,2.781,2.929,3.083,3.159,3.183,3.324,3.514,3.682,3.893,4.022,4.09,4.197,4.514,4.648,4.849,5.308,5.482,5.65,5.83,5.901,5.984,6.056,6.384,6.466,6.537,6.62,6.772,6.837,6.876,6.991,7.1,7.28,7.394,7.482,7.586,7.738,7.876]},"9":{"track":[[36.423916,-105.041923],[36.42346,-105.042264],[36.422511,-105.044088],[36.420939,-105.044389],[36.418125,-105.046041],[36.417728,-105.047843],[36.416864,-105.049689],[36.417054,-105.051255],[36.41443,-105.048873],[36.410682,-105.049732],[36.406987,-105.050161],[36.405985,-105.050118],[36.404707,-105.050504],[36.405565,-105.048942],[36.404762,-105.047447],[36.404875,-105.045302],[36.404858,-105.043734],[36.405289,-105.04249],[36.406136,-105.040581],[36.405203,-105.040473],[36.405548,-105.038799],[36.406274,-105.037083],[36.406205,-105.035216],[36.405307,-105.034165]],"elevFt":[7972.4,7982.3,8011.8,8015.1,8057.7,8126.6,8087.3,8031.5,8129.9,8277.6,8369.4,8405.5,8451.4,8395.7,8438.3,8464.6,8461.3,8425.2,8389.1,8418.6,8435,8418.6,8369.4,8418.6],"distMi":[0,0.037,0.158,0.268,0.483,0.587,0.706,0.794,1.019,1.282,1.538,1.607,1.698,1.803,1.903,2.023,2.11,2.185,2.306,2.371,2.467,2.575,2.679,2.764]},"10":{"track":[[36.405307,-105.034165],[36.404998,-105.03303],[36.404566,-105.031936],[36.404618,-105.030992],[36.404791,-105.029232],[36.404497,-105.027515],[36.404894,-105.026378],[36.405913,-105.024833],[36.404687,-105.021014],[36.403755,-105.02067],[36.404238,-105.019898],[36.405672,-105.019576],[36.406328,-105.021164],[36.406328,-105.019533],[36.406742,-105.021121],[36.406691,-105.018472],[36.407364,-105.020768],[36.407434,-105.018859],[36.408106,-105.017743],[36.407779,-105.016541],[36.408141,-105.015962],[36.408073,-105.014267],[36.408365,-105.013],[36.408591,-105.011842],[36.408642,-105.010512],[36.408142,-105.008987],[36.407675,-105.008043],[36.409005,-105.007549],[36.407503,-105.006864],[36.406916,-105.005662],[36.406328,-105.003837],[36.405465,-105.002485],[36.404377,-105.001541],[36.402667,-104.999482],[36.402581,-104.997766],[36.401942,-104.996714],[36.401527,-104.994118],[36.400715,-104.993088],[36.40033,-104.99216],[36.398971,-104.991629],[36.400059,-104.991454],[36.401095,-104.991454],[36.401596,-104.993385],[36.402874,-104.992012],[36.40391,-104.991926],[36.404687,-104.992312],[36.405774,-104.993395],[36.406171,-104.992752],[36.408416,-104.994425],[36.407552,-104.992945],[36.408692,-104.993031],[36.407621,-104.9914],[36.408554,-104.991829],[36.409521,-104.991829],[36.409918,-104.991421],[36.408988,-104.990507]],"elevFt":[8418.6,8389.1,8395.7,8343.2,8313.6,8320.2,8310.4,8271,8379.3,8359.6,8297.2,8271,8234.9,8208.7,8185.7,8143,8107,8077.4,8021.7,7982.3,7946.2,7919.9,7897,7913.4,7965.9,8021.7,8084,8120.1,8156.2,8189,8159.4,8116.8,8074.1,8097.1,8129.9,8087.3,8074.1,7939.6,7916.7,7877.3,7890.4,8002,8100.4,8297.2,8326.8,8336.6,8362.9,8326.8,8211.9,8189,8123.4,8126.6,8051.2,8047.9,8002,7969.2],"distMi":[0,0.067,0.135,0.188,0.287,0.385,0.454,0.565,0.794,0.861,0.915,1.016,1.115,1.206,1.299,1.446,1.582,1.688,1.766,1.837,1.878,1.972,2.045,2.111,2.185,2.277,2.339,2.435,2.546,2.624,2.733,2.829,2.921,3.086,3.182,3.255,3.402,3.482,3.54,3.638,3.714,3.786,3.899,4.016,4.088,4.146,4.242,4.287,4.468,4.57,4.649,4.766,4.835,4.902,4.938,5.02]},"11":{"track":[[36.408988,-104.990507],[36.409795,-104.990549],[36.411534,-104.990791],[36.412448,-104.991174],[36.413056,-104.990557],[36.413971,-104.991002],[36.4143,-104.990029],[36.413799,-104.989164],[36.414526,-104.988733],[36.415223,-104.987537],[36.416048,-104.987811],[36.417153,-104.987542],[36.418183,-104.988838],[36.418385,-104.990034],[36.419266,-104.990045],[36.420151,-104.990673],[36.421325,-104.990335],[36.42287,-104.989889],[36.423483,-104.989058],[36.424584,-104.988736],[36.425469,-104.98835],[36.426129,-104.987234],[36.427213,-104.987304],[36.427977,-104.987878],[36.42887,-104.988538],[36.429802,-104.988849],[36.430364,-104.989508],[36.429254,-104.990978],[36.428322,-104.992207],[36.429129,-104.991778],[36.430502,-104.992357],[36.432038,-104.993956],[36.434093,-104.993816],[36.434196,-104.99505],[36.434386,-104.99711],[36.434697,-104.998654],[36.435292,-104.999594],[36.435629,-105.00053],[36.435041,-105.002806],[36.435927,-105.003241],[36.436445,-105.004271],[36.436764,-105.005331],[36.436928,-105.006613],[36.437653,-105.007463]],"elevFt":[7969.2,7962.6,7962.6,7959.3,7893.7,7870.7,7818.2,7755.9,7716.5,7611.5,7565.6,7523,7545.9,7503.3,7552.5,7552.5,7631.2,7670.6,7680.4,7654.2,7611.5,7559.1,7529.5,7490.2,7440.9,7385.2,7280.2,7224.4,7198.2,7165.4,7119.4,7116.1,7116.1,7135.8,7168.6,7204.7,7247.4,7267.1,7375.3,7378.6,7418,7440.9,7450.8,7490.2],"distMi":[0,0.056,0.177,0.244,0.298,0.366,0.425,0.484,0.54,0.622,0.681,0.759,0.86,0.928,0.989,1.059,1.142,1.252,1.315,1.393,1.458,1.535,1.61,1.672,1.744,1.811,1.864,1.976,2.07,2.131,2.231,2.369,2.511,2.58,2.695,2.783,2.849,2.906,3.039,3.105,3.173,3.236,3.308,3.377]},"12":{"track":[[36.437653,-105.007463],[36.438664,-105.006863],[36.439849,-105.006722],[36.440725,-105.00708],[36.441088,-105.005779],[36.441908,-105.005848],[36.443065,-105.006219],[36.443871,-105.00544],[36.444506,-105.004572],[36.445434,-105.004084],[36.446772,-105.003869],[36.448135,-105.003856],[36.449188,-105.003998],[36.450086,-105.003826],[36.45012,-105.005736],[36.449248,-105.006036],[36.449015,-105.007214],[36.448308,-105.007933],[36.448593,-105.007656],[36.449361,-105.006562],[36.45012,-105.005736],[36.450871,-105.004137],[36.450189,-105.003342],[36.449956,-105.00228],[36.449551,-105.001218],[36.449529,-105.000006],[36.450457,-104.999652],[36.450893,-104.998407],[36.45009,-104.99842],[36.452639,-104.993705],[36.454028,-104.99099],[36.45307,-104.989467],[36.453795,-104.988051],[36.455651,-104.990036],[36.455245,-104.98509],[36.453623,-104.985304],[36.453485,-104.984145],[36.454865,-104.983201],[36.451595,-104.984274],[36.454071,-104.981485],[36.454589,-104.980219],[36.456212,-104.979339],[36.453597,-104.979393],[36.455349,-104.97715],[36.457144,-104.977022],[36.458731,-104.978524],[36.458352,-104.976635],[36.457454,-104.975562],[36.455211,-104.974876],[36.457144,-104.974189],[36.458006,-104.972816],[36.456798,-104.972762],[36.458938,-104.970638],[36.460207,-104.9717],[36.460371,-104.968782],[36.460828,-104.969973],[36.460966,-104.963578],[36.457575,-104.963911],[36.455469,-104.963203],[36.454071,-104.962044],[36.453513,-104.96248]],"elevFt":[7490.2,7519.7,7562.3,7588.6,7591.9,7631.2,7654.2,7690.3,7706.7,7831.4,8005.2,8175.9,8320.2,8415.4,8536.7,8576.1,8750,8907.5,8848.4,8641.7,8536.7,8438.3,8421.9,8392.4,8382.5,8330.1,8277.6,8320.2,8313.6,8221.8,8198.8,8156.2,8120.1,8061,7949.5,7936.4,7864.2,7867.5,7824.8,7729.7,7667.3,7650.9,7585.3,7519.7,7496.7,7467.2,7431.1,7414.7,7385.2,7372,7306.4,7273.6,7178.5,7099.7,7037.4,6984.9,6843.8,6765.1,6712.6,6706,6712.6],"distMi":[0,0.077,0.159,0.223,0.3,0.357,0.44,0.511,0.576,0.646,0.739,0.833,0.906,0.969,1.075,1.138,1.205,1.268,1.293,1.374,1.444,1.547,1.612,1.673,1.738,1.805,1.872,1.947,2.002,2.318,2.497,2.604,2.697,2.866,3.142,3.255,3.32,3.429,3.663,3.894,3.973,4.095,4.276,4.45,4.574,4.712,4.82,4.906,5.066,5.205,5.302,5.386,5.575,5.681,5.844,5.917,6.272,6.507,6.658,6.774,6.82]}}},"waypoints":[{"name":"Rayado Trailhead","lat":36.36523,"lon":-104.930362,"day":2,"elevFt":6513,"type":"trailhead_start"},{"name":"Olympia","lat":36.371734,"lon":-104.968928,"day":2,"elevFt":6731,"type":"camp","campType":"trail"},{"name":"Abreu","lat":36.379133,"lon":-105.015701,"day":3,"elevFt":7350,"type":"camp","campType":"staffed"},{"name":"Fish Camp","lat":36.38782,"lon":-105.10272,"day":4,"elevFt":8500,"type":"camp","campType":"trail"},{"name":"Apache Springs","lat":36.387479,"lon":-105.144133,"day":5,"elevFt":9400,"type":"passthrough"},{"name":"Buck Creek","lat":36.411196,"lon":-105.130419,"day":5,"elevFt":9131,"type":"camp","campType":"trail"},{"name":"Beaubien","lat":36.423576,"lon":-105.103246,"day":6,"elevFt":9330,"type":"camp","campType":"staffed"},{"name":"Black Mountain","lat":36.442549,"lon":-105.093307,"day":8,"elevFt":9200,"type":"passthrough"},{"name":"Miners Park","lat":36.423674,"lon":-105.041596,"day":8,"elevFt":8002,"type":"camp","campType":"staffed"},{"name":"Crater Lake","lat":36.405565,"lon":-105.048942,"day":9,"elevFt":8100,"type":"passthrough"},{"name":"Bear Caves","lat":36.404802,"lon":-105.033858,"day":9,"elevFt":8423,"type":"camp","campType":"trail"},{"name":"Urraca","lat":36.408988,"lon":-104.990507,"day":10,"elevFt":7968,"type":"camp","campType":"staffed"},{"name":"RMSC","lat":36.434049,"lon":-104.99012,"day":11,"elevFt":7500,"type":"passthrough"},{"name":"Stockade Ridge","lat":36.437662,"lon":-105.007633,"day":11,"elevFt":7400,"type":"camp","campType":"dry"},{"name":"Tooth of Time","lat":36.45,"lon":-104.975,"day":12,"elevFt":9003,"type":"passthrough"},{"name":"Base Camp","lat":36.453513,"lon":-104.96248,"day":12,"elevFt":6729,"type":"trailhead_end"}],"height":"520px"}],"$L12"]}]
+b:["$","div",null,{"children":[["$","h2",null,{"className":"text-lg font-semibold text-stone-700 mb-4","children":"Day-by-Day"}],["$","div",null,{"className":"grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-3","children":[["$","$L2","2",{"href":"/day/2/","className":"group block bg-white rounded-xl border border-stone-200 shadow-sm hover:shadow-md transition-all overflow-hidden","children":[["$","div",null,{"className":"h-1","style":{"backgroundColor":"#ef4444"}}],["$","div",null,{"className":"p-3","children":[["$","div",null,{"className":"flex items-start justify-between mb-1","children":[["$","span",null,{"className":"text-xs font-semibold text-stone-400 uppercase tracking-wide","children":["Day ",2]}],["$","div",null,{"className":"flex gap-1","children":[false,false,false]}]]}],["$","div",null,{"className":"text-xs text-stone-400 mb-1","children":"June 19"}],["$","div",null,{"className":"font-semibold text-stone-800 text-sm leading-tight mb-2","children":["Base Camp",["$","span",null,{"className":"text-stone-400 mx-1","children":"→"}],"Olympia"]}],["$","div",null,{"className":"flex gap-2 text-xs text-stone-500","children":[["$","span",null,{"className":"font-medium","children":[2.6," mi"]}],["$","span",null,{"className":"text-green-600","children":["+","520","'"]}],["$","span",null,{"className":"text-red-500","children":["-","300","'"]}]]}],null,null]}],["$","div",null,{"className":"px-3 pb-3","children":["$","span",null,{"className":"text-xs text-stone-400 group-hover:text-forest-700 transition-colors","children":"View map →"}]}]]}],["$","$L2","3",{"href":"/day/3/","className":"group block bg-white rounded-xl border border-stone-200 shadow-sm hover:shadow-md transition-all overflow-hidden","children":[["$","div",null,{"className":"h-1","style":{"backgroundColor":"#f97316"}}],["$","div",null,{"className":"p-3","children":[["$","div",null,{"className":"flex items-start justify-between mb-1","children":[["$","span",null,{"className":"text-xs font-semibold text-stone-400 uppercase tracking-wide","children":["Day ",3]}],["$","div",null,{"className":"flex gap-1","children":[["$","span",null,{"title":"Showers","className":"text-xs","children":"🚿"}],false,false]}]]}],["$","div",null,{"className":"text-xs text-stone-400 mb-1","children":"June 20"}],["$","div",null,{"className":"font-semibold text-stone-800 text-sm leading-tight mb-2","children":["Olympia",["$","span",null,{"className":"text-stone-400 mx-1","children":"→"}],"Abreu"]}],["$","div",null,{"className":"flex gap-2 text-xs text-stone-500","children":[["$","span",null,{"className":"font-medium","children":[3.3," mi"]}],["$","span",null,{"className":"text-green-600","children":["+","600","'"]}],["$","span",null,{"className":"text-red-500","children":["-","110","'"]}]]}],null,null]}],["$","div",null,{"className":"px-3 pb-3","children":["$","span",null,{"className":"text-xs text-stone-400 group-hover:text-forest-700 transition-colors","children":"View map →"}]}]]}],["$","$L2","4",{"href":"/day/4/","className":"group block bg-white rounded-xl border border-stone-200 shadow-sm hover:shadow-md transition-all overflow-hidden","children":[["$","div",null,{"className":"h-1","style":{"backgroundColor":"#eab308"}}],["$","div",null,{"className":"p-3","children":[["$","div",null,{"className":"flex items-start justify-between mb-1","children":[["$","span",null,{"className":"text-xs font-semibold text-stone-400 uppercase tracking-wide","children":["Day ",4]}],["$","div",null,{"className":"flex gap-1","children":[false,false,false]}]]}],["$","div",null,{"className":"text-xs text-stone-400 mb-1","children":"June 21"}],["$","div",null,{"className":"font-semibold text-stone-800 text-sm leading-tight mb-2","children":["Abreu",["$","span",null,{"className":"text-stone-400 mx-1","children":"→"}],"Fish Camp"]}],["$","div",null,{"className":"flex gap-2 text-xs text-stone-500","children":[["$","span",null,{"className":"font-medium","children":[7.9," mi"]}],["$","span",null,{"className":"text-green-600","children":["+","6,970","'"]}],["$","span",null,{"className":"text-red-500","children":["-","5,480","'"]}]]}],["$","div",null,{"className":"mt-2 text-xs text-amber-700 bg-amber-50 rounded px-2 py-1 leading-tight","children":"Hardest day — 6,970’ cumulative gain"}],null]}],["$","div",null,{"className":"px-3 pb-3","children":["$","span",null,{"className":"text-xs text-stone-400 group-hover:text-forest-700 transition-colors","children":"View map →"}]}]]}],"$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a"]}]]}]
+c:["$","div",null,{"className":"flex gap-3 pt-2 border-t border-stone-100","children":[["$","a",null,{"href":"/maps/summary-1.png","target":"_blank","rel":"noopener noreferrer","className":"text-sm text-forest-700 hover:text-forest-800 underline","children":"Summary map (full route PNG)"}],["$","span",null,{"className":"text-stone-300","children":"·"}],["$","$L2",null,{"href":"/itinerary/","className":"text-sm text-forest-700 hover:text-forest-800 underline","children":"Full itinerary table"}]]}]
+d:["$","$L1b",null,{"children":["$L1c",["$","$L1d",null,{"promise":"$@1e"}]]}]
+e:["$","$1","h",{"children":[null,[["$","$L1f",null,{"children":"$L20"}],null],["$","$L21",null,{"children":["$","div",null,{"hidden":true,"children":["$","$22",null,{"fallback":null,"children":"$L23"}]}]}]]}]
+12:["$","p",null,{"className":"text-xs text-stone-400 mt-2 text-center","children":"Tiles © OpenStreetMap contributors · Route from SRTM-derived GPX"}]
+13:["$","$L2","5",{"href":"/day/5/","className":"group block bg-white rounded-xl border border-stone-200 shadow-sm hover:shadow-md transition-all overflow-hidden","children":[["$","div",null,{"className":"h-1","style":{"backgroundColor":"#22c55e"}}],["$","div",null,{"className":"p-3","children":[["$","div",null,{"className":"flex items-start justify-between mb-1","children":[["$","span",null,{"className":"text-xs font-semibold text-stone-400 uppercase tracking-wide","children":["Day ",5]}],["$","div",null,{"className":"flex gap-1","children":[false,false,false]}]]}],["$","div",null,{"className":"text-xs text-stone-400 mb-1","children":"June 22"}],["$","div",null,{"className":"font-semibold text-stone-800 text-sm leading-tight mb-2","children":["Fish Camp",["$","span",null,{"className":"text-stone-400 mx-1","children":"→"}],"Buck Creek"]}],["$","div",null,{"className":"flex gap-2 text-xs text-stone-500","children":[["$","span",null,{"className":"font-medium","children":[7.5," mi"]}],["$","span",null,{"className":"text-green-600","children":["+","3,840","'"]}],["$","span",null,{"className":"text-red-500","children":["-","3,380","'"]}]]}],null,null]}],["$","div",null,{"className":"px-3 pb-3","children":["$","span",null,{"className":"text-xs text-stone-400 group-hover:text-forest-700 transition-colors","children":"View map →"}]}]]}]
+14:["$","$L2","6",{"href":"/day/6/","className":"group block bg-white rounded-xl border border-stone-200 shadow-sm hover:shadow-md transition-all overflow-hidden","children":[["$","div",null,{"className":"h-1","style":{"backgroundColor":"#14b8a6"}}],["$","div",null,{"className":"p-3","children":[["$","div",null,{"className":"flex items-start justify-between mb-1","children":[["$","span",null,{"className":"text-xs font-semibold text-stone-400 uppercase tracking-wide","children":["Day ",6]}],["$","div",null,{"className":"flex gap-1","children":[["$","span",null,{"title":"Showers","className":"text-xs","children":"🚿"}],false,false]}]]}],["$","div",null,{"className":"text-xs text-stone-400 mb-1","children":"June 23"}],["$","div",null,{"className":"font-semibold text-stone-800 text-sm leading-tight mb-2","children":["Buck Creek",["$","span",null,{"className":"text-stone-400 mx-1","children":"→"}],"Beaubien"]}],["$","div",null,{"className":"flex gap-2 text-xs text-stone-500","children":[["$","span",null,{"className":"font-medium","children":[3.3," mi"]}],["$","span",null,{"className":"text-green-600","children":["+","1,740","'"]}],["$","span",null,{"className":"text-red-500","children":["-","1,570","'"]}]]}],["$","div",null,{"className":"mt-2 text-xs text-amber-700 bg-amber-50 rounded px-2 py-1 leading-tight","children":"Horse rides and chuckwagon dinner at Beaubien"}],null]}],["$","div",null,{"className":"px-3 pb-3","children":["$","span",null,{"className":"text-xs text-stone-400 group-hover:text-forest-700 transition-colors","children":"View map →"}]}]]}]
+15:["$","$L2","7",{"href":"/day/7/","className":"group block bg-white rounded-xl border border-stone-200 shadow-sm hover:shadow-md transition-all overflow-hidden","children":[["$","div",null,{"className":"h-1","style":{"backgroundColor":"#6366f1"}}],["$","div",null,{"className":"p-3","children":[["$","div",null,{"className":"flex items-start justify-between mb-1","children":[["$","span",null,{"className":"text-xs font-semibold text-stone-400 uppercase tracking-wide","children":["Day ",7]}],["$","div",null,{"className":"flex gap-1","children":[["$","span",null,{"title":"Showers","className":"text-xs","children":"🚿"}],false,["$","span",null,{"className":"text-xs bg-indigo-100 text-indigo-700 px-1 rounded","children":"Layover"}]]}]]}],["$","div",null,{"className":"text-xs text-stone-400 mb-1","children":"June 24"}],["$","div",null,{"className":"font-semibold text-stone-800 text-sm leading-tight mb-2","children":["Beaubien",["$","span",null,{"className":"text-stone-400 mx-1","children":"→"}],"Beaubien"]}],["$","div",null,{"className":"text-xs text-stone-400","children":["Rest day · ","Layover"]}],null,null]}],["$","div",null,{"className":"px-3 pb-3","children":["$","span",null,{"className":"text-xs text-stone-400 group-hover:text-forest-700 transition-colors","children":"View map →"}]}]]}]
+16:["$","$L2","8",{"href":"/day/8/","className":"group block bg-white rounded-xl border border-stone-200 shadow-sm hover:shadow-md transition-all overflow-hidden","children":[["$","div",null,{"className":"h-1","style":{"backgroundColor":"#3b82f6"}}],["$","div",null,{"className":"p-3","children":[["$","div",null,{"className":"flex items-start justify-between mb-1","children":[["$","span",null,{"className":"text-xs font-semibold text-stone-400 uppercase tracking-wide","children":["Day ",8]}],["$","div",null,{"className":"flex gap-1","children":[["$","span",null,{"title":"Showers","className":"text-xs","children":"🚿"}],false,false]}]]}],["$","div",null,{"className":"text-xs text-stone-400 mb-1","children":"June 25"}],["$","div",null,{"className":"font-semibold text-stone-800 text-sm leading-tight mb-2","children":["Beaubien",["$","span",null,{"className":"text-stone-400 mx-1","children":"→"}],"Miners Park"]}],["$","div",null,{"className":"flex gap-2 text-xs text-stone-500","children":[["$","span",null,{"className":"font-medium","children":[8.6," mi"]}],["$","span",null,{"className":"text-green-600","children":["+","4,320","'"]}],["$","span",null,{"className":"text-red-500","children":["-","5,640","'"]}]]}],["$","div",null,{"className":"mt-2 text-xs text-amber-700 bg-amber-50 rounded px-2 py-1 leading-tight","children":"Rock climbing + Black Mountain south-face ascent"}],null]}],["$","div",null,{"className":"px-3 pb-3","children":["$","span",null,{"className":"text-xs text-stone-400 group-hover:text-forest-700 transition-colors","children":"View map →"}]}]]}]
+17:["$","$L2","9",{"href":"/day/9/","className":"group block bg-white rounded-xl border border-stone-200 shadow-sm hover:shadow-md transition-all overflow-hidden","children":[["$","div",null,{"className":"h-1","style":{"backgroundColor":"#8b5cf6"}}],["$","div",null,{"className":"p-3","children":[["$","div",null,{"className":"flex items-start justify-between mb-1","children":[["$","span",null,{"className":"text-xs font-semibold text-stone-400 uppercase tracking-wide","children":["Day ",9]}],["$","div",null,{"className":"flex gap-1","children":[false,false,false]}]]}],["$","div",null,{"className":"text-xs text-stone-400 mb-1","children":"June 26"}],["$","div",null,{"className":"font-semibold text-stone-800 text-sm leading-tight mb-2","children":["Miners Park",["$","span",null,{"className":"text-stone-400 mx-1","children":"→"}],"Bear Caves"]}],["$","div",null,{"className":"flex gap-2 text-xs text-stone-500","children":[["$","span",null,{"className":"font-medium","children":[3.1," mi"]}],["$","span",null,{"className":"text-green-600","children":["+","1,780","'"]}],["$","span",null,{"className":"text-red-500","children":["-","1,380","'"]}]]}],null,null]}],["$","div",null,{"className":"px-3 pb-3","children":["$","span",null,{"className":"text-xs text-stone-400 group-hover:text-forest-700 transition-colors","children":"View map →"}]}]]}]
+18:["$","$L2","10",{"href":"/day/10/","className":"group block bg-white rounded-xl border border-stone-200 shadow-sm hover:shadow-md transition-all overflow-hidden","children":[["$","div",null,{"className":"h-1","style":{"backgroundColor":"#ec4899"}}],["$","div",null,{"className":"p-3","children":[["$","div",null,{"className":"flex items-start justify-between mb-1","children":[["$","span",null,{"className":"text-xs font-semibold text-stone-400 uppercase tracking-wide","children":["Day ",10]}],["$","div",null,{"className":"flex gap-1","children":[false,false,false]}]]}],["$","div",null,{"className":"text-xs text-stone-400 mb-1","children":"June 27"}],["$","div",null,{"className":"font-semibold text-stone-800 text-sm leading-tight mb-2","children":["Bear Caves",["$","span",null,{"className":"text-stone-400 mx-1","children":"→"}],"Urraca"]}],["$","div",null,{"className":"flex gap-2 text-xs text-stone-500","children":[["$","span",null,{"className":"font-medium","children":[4.6," mi"]}],["$","span",null,{"className":"text-green-600","children":["+","1,780","'"]}],["$","span",null,{"className":"text-red-500","children":["-","2,210","'"]}]]}],null,null]}],["$","div",null,{"className":"px-3 pb-3","children":["$","span",null,{"className":"text-xs text-stone-400 group-hover:text-forest-700 transition-colors","children":"View map →"}]}]]}]
+19:["$","$L2","11",{"href":"/day/11/","className":"group block bg-white rounded-xl border border-stone-200 shadow-sm hover:shadow-md transition-all overflow-hidden","children":[["$","div",null,{"className":"h-1","style":{"backgroundColor":"#f59e0b"}}],["$","div",null,{"className":"p-3","children":[["$","div",null,{"className":"flex items-start justify-between mb-1","children":[["$","span",null,{"className":"text-xs font-semibold text-stone-400 uppercase tracking-wide","children":["Day ",11]}],["$","div",null,{"className":"flex gap-1","children":[false,["$","span",null,{"title":"Dry camp","className":"text-xs text-amber-600 font-bold","children":"DRY"}],false]}]]}],["$","div",null,{"className":"text-xs text-stone-400 mb-1","children":"June 28"}],["$","div",null,{"className":"font-semibold text-stone-800 text-sm leading-tight mb-2","children":["Urraca",["$","span",null,{"className":"text-stone-400 mx-1","children":"→"}],"Stockade Ridge"]}],["$","div",null,{"className":"flex gap-2 text-xs text-stone-500","children":[["$","span",null,{"className":"font-medium","children":[4.7," mi"]}],["$","span",null,{"className":"text-green-600","children":["+","1,310","'"]}],["$","span",null,{"className":"text-red-500","children":["-","1,750","'"]}]]}],null,["$","div",null,{"className":"mt-2 text-xs text-red-700 bg-red-50 rounded px-2 py-1 leading-tight","children":"Dry camp — carry 2–3 L/person from last confirmed water source"}]]}],["$","div",null,{"className":"px-3 pb-3","children":["$","span",null,{"className":"text-xs text-stone-400 group-hover:text-forest-700 transition-colors","children":"View map →"}]}]]}]
+1a:["$","$L2","12",{"href":"/day/12/","className":"group block bg-white rounded-xl border border-stone-200 shadow-sm hover:shadow-md transition-all overflow-hidden","children":[["$","div",null,{"className":"h-1","style":{"backgroundColor":"#78716c"}}],["$","div",null,{"className":"p-3","children":[["$","div",null,{"className":"flex items-start justify-between mb-1","children":[["$","span",null,{"className":"text-xs font-semibold text-stone-400 uppercase tracking-wide","children":["Day ",12]}],["$","div",null,{"className":"flex gap-1","children":[false,false,false]}]]}],["$","div",null,{"className":"text-xs text-stone-400 mb-1","children":"June 29"}],["$","div",null,{"className":"font-semibold text-stone-800 text-sm leading-tight mb-2","children":["Stockade Ridge",["$","span",null,{"className":"text-stone-400 mx-1","children":"→"}],"Base Camp"]}],["$","div",null,{"className":"flex gap-2 text-xs text-stone-500","children":[["$","span",null,{"className":"font-medium","children":[7.7," mi"]}],["$","span",null,{"className":"text-green-600","children":["+","2,860","'"]}],["$","span",null,{"className":"text-red-500","children":["-","3,720","'"]}]]}],null,null]}],["$","div",null,{"className":"px-3 pb-3","children":["$","span",null,{"className":"text-xs text-stone-400 group-hover:text-forest-700 transition-colors","children":"View map →"}]}]]}]
+20:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1c:null
+1e:{"metadata":[["$","title","0",{"children":"Crew 618-J · Philmont 2026"}],["$","meta","1",{"name":"description","content":"Itinerary 12-1 · South Country Loop · 53.3 miles · June 18–29, 2026"}]],"error":null,"digest":"$undefined"}
+23:"$1e:metadata"

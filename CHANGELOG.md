@@ -13,6 +13,10 @@ All notable changes to this project will be documented in this file.
 - Warning logs for invalid MapScale strings (e.g., `"1:24,000"` with comma) instead of silent fallback to auto-scale.
 
 ### Fixed
+- **Trek Guide Alignment:** Updated markdown guide and web version to align with official Itinerary 12-1 programs:
+    - Removed Black Powder Rifle shooting from Black Mountain (passthrough only).
+    - Removed Evening Campfire from Crater Lake (passthrough only).
+    - Corrected Advisor Coffee availability for daytime passthrough camps.
 - **Terrain N-S flip:** `imshow(origin="lower")` was reflecting SRTM raster north↔south; changed to `origin="upper"` for correct geographic alignment across split-sheet boundaries.
 - **Elevation all-artifact fallback:** `assign_elevations` now uses `nanmedian` of pre-filter samples (floored at 2000m) instead of hardcoded `0.0m`, preventing ~6500 ft phantom spikes in gain/loss.
 - **Iterator consumption:** `assign_elevations` now materializes input to `list()` at entry, fixing silent data loss when called with generators.
