@@ -15,16 +15,13 @@ data/*.pkl
 # Generated output — run `python3 main.py` to recreate
 output/
 
-# Generated web assets — run `python3 generate_web_assets.py` to recreate
-web/public/maps/
-web/public/data/
-
 # Next.js build artifacts — run `npm install && npm run dev` in web/
 web/node_modules/
 web/.next/
 web/out/
 web/next-env.d.ts
 web/tsconfig.tsbuildinfo
+# web/public/maps/ and web/public/data/ ARE committed as website source assets
 
 # OS
 .DS_Store
